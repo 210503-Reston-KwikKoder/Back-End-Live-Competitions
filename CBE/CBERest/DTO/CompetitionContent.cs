@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace CBERest.DTO{
+namespace LiveCompetitionREST.DTO{
 
     public class CompetitionContent{
 

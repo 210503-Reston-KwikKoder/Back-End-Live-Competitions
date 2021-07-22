@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/bjGnTVBSRH/XLefQLRAckvcAq7wRvfxuoRUJXMRFSd04TNUgUF5rM3CE5JcyDDx62R+a4ky/C1bQ1paduLJw==",
+  "dgSpecHash": "W9rX81dx5O4MdKmUOwo4EAq4WFWaAwIIPKr0DJF8gyCD6aqS6dqhQKHaF59dQHaiwO56pmCX4Nvu69Zy3LL9TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
+  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",

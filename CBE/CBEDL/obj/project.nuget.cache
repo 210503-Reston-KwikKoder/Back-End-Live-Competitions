@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WNHtutM3azTeCq3mMzfSyJzh4y2JctrdDBpYznVgQ1jD2gXW3jPqXtFLGmPTmPfRMcQIa0nK6Z3btrH7zZNjA==",
+  "dgSpecHash": "mwnkx1qyE3wWtm8BsmFKS4IJUA3CelwKrRH1UkFq66+/kqvSOsSB8vCDDPgSUz5fVD0UAGkwSNgl1Tdqwcn0Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
+  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

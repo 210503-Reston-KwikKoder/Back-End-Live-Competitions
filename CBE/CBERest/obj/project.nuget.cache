@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "itGxliPDof1UEdaKdc+7MvDOljoYxlTNMSud/hfi/2nZOggdULA8dx4ax8cXZ5Z7YZO6V0rtmxRDK3yu7gOHCQ==",
+  "dgSpecHash": "hyTIx5OxgEjujDuKG/Qi6dw1tCgti0Z03jzWS8+IUnh8lillQ4WVl3fF7gdAJcJ7VdFmuqAy9D2tsiSk6NOZ3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj",
+  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.7\\microsoft.aspnetcore.authentication.jwtbearer.5.0.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCLwnihGJU7MZ7LrpDRPVzx2lhZRg6ILxKBRre5HQlJ0zHT6iKcHLor4kZDGSscsGe/CqiDkPIonxZxBG0EY7g==",
+  "dgSpecHash": "qOI+CUWM/+QBwd69UfHvX8PENfoASfH1zP1RxaJvE+BoiG3FYZ+/0lhXwxVarkSt6K04yw7d1qZs2gJhFS40DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\LiveCompetitionTests.csproj",
+  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\LiveCompetitionTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",

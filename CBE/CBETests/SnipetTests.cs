@@ -1,20 +1,17 @@
 using System;
 using Xunit;
-using CBEDL;
-using CBEBL;
-using CBERest;
-using CBEModels;
+
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using Serilog;
 using Moq;
 using System.Collections.Generic;
-using CBERest.Controllers;
 using Microsoft.Extensions.Options;
 using CBERest.DTO;
 using Microsoft.AspNetCore.Mvc;
+using LiveCompetitionBL;
 
-namespace CBETests
+namespace LiveCompetitionTests
 {
 
         public class GACDSnipetTest

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TpLmnFel6d6syAOqjODKwjvfdHqwuRHmDXd8K4ZWHguFILq7Rbz2HSDh6uJqZsTfstb1Dh58jhwU+VLXdXx5wQ==",
+  "dgSpecHash": "ZbFQAISRF2AU9FSPdRo7dD0ZbH7Rl0FsYjrHa1IrYqDdejX1HrGW9Me0WYQmViQk/ax16/9zg3CVjw6jkqui4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
+  "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

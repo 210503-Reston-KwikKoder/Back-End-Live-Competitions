@@ -1,23 +1,21 @@
 using System;
 using Xunit;
-using CBEDL;
-using CBEBL;
-using CBERest;
-using CBEModels;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using Moq;
 using System.Collections.Generic;
 using CBERest.Controllers;
 using Microsoft.Extensions.Options;
-using CBERest.DTO;
 using Microsoft.AspNetCore.Mvc;
-using GACDRest.Controllers;
 using Microsoft.AspNetCore.Http;
 using System.Threading;
 using System.Security.Claims;
+using LiveCompetitionDL;
+using LiveCompetitionBL;
+using LiveComeptitionModels;
+using LiveCompetitionREST.DTO;
 
-namespace CBETests
+namespace LiveCompetitionTests
 {
     public class CBEUnitTests
     {

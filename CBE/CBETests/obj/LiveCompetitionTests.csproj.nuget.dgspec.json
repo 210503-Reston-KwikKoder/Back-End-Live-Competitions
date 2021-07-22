@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\LiveCompetitionTests.csproj": {}
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\LiveCompetitionTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
         "projectName": "LiveCompetitionBL",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
         "projectName": "LiveCompetitionDL",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,8 +119,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
               }
             }
           }
@@ -207,14 +207,14 @@
         }
       }
     },
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
         "projectName": "LiveCompetitionModels",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -287,14 +287,14 @@
         }
       }
     },
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj",
         "projectName": "LiveCompetitionREST",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -311,11 +311,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
               }
             }
           }
@@ -427,14 +427,14 @@
         }
       }
     },
-    "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\LiveCompetitionTests.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\LiveCompetitionTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\LiveCompetitionTests.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\LiveCompetitionTests.csproj",
         "projectName": "LiveCompetitionTests",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\LiveCompetitionTests.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\LiveCompetitionTests.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBETests\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBETests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -451,17 +451,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEBL\\LiveCompetitionBL.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEBL\\LiveCompetitionBL.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEDL\\LiveCompetitionDL.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBERest\\LiveCompetitionREST.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBERest\\LiveCompetitionREST.csproj"
               }
             }
           }

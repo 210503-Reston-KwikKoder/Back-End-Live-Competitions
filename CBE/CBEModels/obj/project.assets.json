@@ -5664,11 +5664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
+      "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
       "projectName": "LiveCompetitionModels",
-      "projectPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
+      "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\LiveCompetitionModels.csproj",
       "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodge\\Desktop\\CBE\\CBEModels\\obj\\",
+      "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions\\CBE\\CBEModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
