@@ -1,0 +1,37 @@
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionBL.deps.json
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\ref\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionBL.pdb
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.AssemblyReference.cache
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.AssemblyInfoInputs.cache
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.AssemblyInfo.cs
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.CopyComplete
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\ref\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\obj\Debug\net5.0\LiveCompetitionBL.pdb
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionDL.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionDL.pdb
+C:\Users\Rodge\Desktop\CBE\CBEBL\bin\Debug\net5.0\LiveCompetitionModels.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\CBE\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\CBE\LiveCompetitionBL\obj\Debug\net5.0\ref\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\CBE\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\ref\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionBL.deps.json
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\ref\LiveCompetitionBL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionBL.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionDL.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionDL.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\bin\Debug\net5.0\LiveCompetitionModels.pdb
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.AssemblyReference.cache
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.AssemblyInfoInputs.cache
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.AssemblyInfo.cs
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\Desktop\Live Competions - Copy\LiveCompetitions\LiveCompetitionBL\obj\Debug\net5.0\LiveCompetitionBL.csproj.CopyComplete
