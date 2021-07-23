@@ -1,0 +1,12 @@
+C:\Users\Rodge\Desktop\CBE\CBEModels\bin\Debug\net5.0\LiveCompetitionModels.deps.json
+C:\Users\Rodge\Desktop\CBE\CBEModels\bin\Debug\net5.0\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\CBE\CBEModels\bin\Debug\net5.0\ref\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\CBE\CBEModels\bin\Debug\net5.0\LiveCompetitionModels.pdb
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.csproj.AssemblyReference.cache
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.AssemblyInfoInputs.cache
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.AssemblyInfo.cs
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\ref\LiveCompetitionModels.dll
+C:\Users\Rodge\Desktop\CBE\CBEModels\obj\Debug\net5.0\LiveCompetitionModels.pdb

@@ -1,0 +1,12 @@
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\bin\Debug\net5.0\CBEModels.deps.json
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\bin\Debug\net5.0\CBEModels.dll
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\bin\Debug\net5.0\ref\CBEModels.dll
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\bin\Debug\net5.0\CBEModels.pdb
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.csproj.AssemblyReference.cache
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.AssemblyInfoInputs.cache
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.AssemblyInfo.cs
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.dll
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\ref\CBEModels.dll
+C:\Users\Rodge\Desktop\Kwik Koder\CBE\CBEModels\obj\Debug\net5.0\CBEModels.pdb
