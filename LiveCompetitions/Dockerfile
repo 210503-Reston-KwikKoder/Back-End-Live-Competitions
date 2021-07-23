@@ -7,7 +7,7 @@ COPY LiveCompetitionREST/*.csproj ./CBERest/
 COPY LiveCompetitionBL/*.csproj ./CBEBL/
 COPY LiveCompetitionDL/*.csproj ./CBEDL/
 COPY LiveCompetitionModels/*.csproj ./CBEModels/
-COPY LiveCompetitionTests/*.csproj ./CBETests/
+#COPY LiveCompetitionTests/*.csproj ./CBETests/
 
 RUN cd LiveCompetitionREST && dotnet restore
 
