@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "EWol0vEFbIzJ/NrkvhfPHqnx0amAW4RklL8Z3iuaowlMQyrspVGeVPuSOHFfyRRkNJLZaFn/3q7+wJpvBUpZuA==",
-  "success": false,
+  "dgSpecHash": "NqdN4wT4hU32cLOZ+Xm7Hl4cG7dw5upry0aL3ddT5Us48rZI91AeQlABBh0L3uppMXgV0vTng4TtaepThdVeLQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionTests\\LiveCompetitionTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodge\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
@@ -226,24 +226,5 @@
     "C:\\Users\\Rodge\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\Rodge\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
