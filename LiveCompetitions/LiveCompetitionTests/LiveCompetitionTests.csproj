@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -34,7 +34,10 @@
     <ProjectReference Include="..\LiveCompetitionBL\LiveCompetitionBL.csproj" />
     <ProjectReference Include="..\LiveCompetitionDL\LiveCompetitionDL.csproj" />
     <ProjectReference Include="..\LiveCompetitionModels\LiveCompetitionModels.csproj" />
-    <ProjectReference Include="..\LiveCompetitionRest\LiveCompetitionREST.csproj" />
-  </ItemGroup>    <None Remove="Moq" />
+    <ProjectReference Include="..\LiveCompetitionREST\LiveCompetitionREST.csproj" />
+  </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Moq" />
+  </ItemGroup>
 </Project>

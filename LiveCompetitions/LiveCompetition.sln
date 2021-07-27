@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveCompetitionModels", "Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveCompetitionBL", "LiveCompetitionBL\LiveCompetitionBL.csproj", "{0FFDDD6F-5A40-444F-8B26-0D491F401BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveCompetitionREST", "LiveCompetitionREST\LiveCompetitionREST.csproj", "{549DFB53-5743-4984-92D2-6F9B72E01CE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveCompetitionREST", "LiveCompetitionREST\LiveCompetitionREST.csproj", "{549DFB53-5743-4984-92D2-6F9B72E01CE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveCompetitionTests", "LiveCompetitionTests\LiveCompetitionTests.csproj", "{C37A5AEC-421B-4FF6-8D88-B1944826A4A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{549DFB53-5743-4984-92D2-6F9B72E01CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{549DFB53-5743-4984-92D2-6F9B72E01CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{549DFB53-5743-4984-92D2-6F9B72E01CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A5AEC-421B-4FF6-8D88-B1944826A4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A5AEC-421B-4FF6-8D88-B1944826A4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A5AEC-421B-4FF6-8D88-B1944826A4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A5AEC-421B-4FF6-8D88-B1944826A4A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

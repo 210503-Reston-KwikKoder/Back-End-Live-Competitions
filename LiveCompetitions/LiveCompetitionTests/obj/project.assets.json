@@ -3768,8 +3768,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj": "1.0.0",
-          "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj": "1.0.0",
           "LiveCompetitionBL": "1.0.0",
           "LiveCompetitionDL": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.7",
@@ -11701,8 +11699,8 @@
     },
     "LiveCompetitionREST/1.0.0": {
       "type": "project",
-      "path": "../LiveCompetitionRest/LiveCompetitionREST.csproj",
-      "msbuildProject": "../LiveCompetitionRest/LiveCompetitionREST.csproj"
+      "path": "../LiveCompetitionREST/LiveCompetitionREST.csproj",
+      "msbuildProject": "../LiveCompetitionREST/LiveCompetitionREST.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11758,8 +11756,8 @@
             "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionModels\\LiveCompetitionModels.csproj": {
               "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionModels\\LiveCompetitionModels.csproj"
             },
-            "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj": {
-              "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj"
+            "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj": {
+              "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj"
             }
           }
         }
@@ -11837,25 +11835,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

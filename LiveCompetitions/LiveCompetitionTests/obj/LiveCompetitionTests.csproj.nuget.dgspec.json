@@ -287,14 +287,14 @@
         }
       }
     },
-    "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj": {
+    "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj",
+        "projectUniqueName": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj",
         "projectName": "LiveCompetitionREST",
-        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj",
+        "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj",
         "packagesPath": "C:\\Users\\Rodge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\obj\\",
+        "outputPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -311,12 +311,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEBL\\LiveCompetitionBL.csproj"
-              },
-              "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\CBEDL\\LiveCompetitionDL.csproj"
-              },
               "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionBL\\LiveCompetitionBL.csproj": {
                 "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionBL\\LiveCompetitionBL.csproj"
               },
@@ -466,8 +460,8 @@
               "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionModels\\LiveCompetitionModels.csproj": {
                 "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionModels\\LiveCompetitionModels.csproj"
               },
-              "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj": {
-                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionRest\\LiveCompetitionREST.csproj"
+              "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj": {
+                "projectPath": "C:\\Users\\Rodge\\Desktop\\Live Competions - Copy\\LiveCompetitions\\LiveCompetitionREST\\LiveCompetitionREST.csproj"
               }
             }
           }
